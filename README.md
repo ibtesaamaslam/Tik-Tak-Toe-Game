@@ -67,8 +67,6 @@ Cpu choice:  3
 | 7 | 8 | 9 |
 +---+---+---+
 
-...
-
 Game over! Thank you for playing :)
 ```
 
